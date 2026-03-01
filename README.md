@@ -16,4 +16,4 @@ How to use:
 To contribute:
 - Add features like parentheses, exponentiation, memory, or a history view.
 
-License: MIT
+License: AI AND UTTAM POKHREL
